@@ -1,0 +1,1 @@
+This is the repository for managing my portfolio via github pages.
