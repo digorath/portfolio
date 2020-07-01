@@ -1,16 +1,24 @@
 [Projects](#projects)
-* [Beware the Pigs](#BewarePigs)
-* [PewPew](#PewPew)
-* [Blocky Breaky](#blocky)
+* [React Native & Redux](#LoPo)
+* [Unity](#BewarePigs)
+  * [Beware the Pigs](#BewarePigs)
+  * [PewPew](#PewPew)
+  * [Blocky Breaky](#blocky)
 * [Other Projects](#other)
   * [Better Soul Shards](#bss)
 
-# Projects
+## React Native & Redux
+
+Towards the end of my time at the university in Kiel I started working at [Lokalportal](https://lokalportal.de) as part of the app team.
+
+After I finished my studies, I joined the team fulltime as a junior frontend developer.
+
+## Unity
 
 <a name="projects"></a>
 The following projects were created as part of learning unity.
 
-## Beware the Pigs 
+### Beware the Pigs 
 <a name="BewarePigs"></a>
 
 **Beware the Pigs** is a small one level "Plants vs. Zombies"-type game. You can place a selection of defenders on a grid, and defend against incoming pigs.
@@ -19,7 +27,7 @@ The following projects were created as part of learning unity.
 
 Play it on [simmer.io](https://simmer.io/@digorath/beware-the-pigs).
 
-## PewPew
+### PewPew
 <a name="PewPew"></a>
 
 In **PewPew** you control a spaceship trying to survive waves of enemy ships, which get increasingly fast, in a space invader type game.
@@ -28,7 +36,7 @@ In **PewPew** you control a spaceship trying to survive waves of enemy ships, wh
 
 Play it on [simmer.io](https://simmer.io/@digorath/pewpew).
 
-## Blocky Breaky 
+### Blocky Breaky 
 <a name="blocky"></a>
 
 **Blocky Breaky** was one of the first unity projects I messed around with. It is a block breaker game with a few levels, where the ball accelerates for each block hit and decelerates when it hits the paddle.
