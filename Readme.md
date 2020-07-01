@@ -11,7 +11,7 @@
 
 Towards the end of my time at the university in Kiel I started working at [Lokalportal](https://lokalportal.de) as part of the app team.
 
-After I finished my studies, I joined the team as a junior frontend developer.
+After I finished my studies, I joined the team fulltime as a junior frontend developer.
 
 ## Unity
 
