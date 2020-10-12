@@ -1,5 +1,7 @@
 [Projects](#projects)
 * [React Native & Redux](#RNR)
+  * [Lokalportal](#LoPo)
+  * [Initiative Tracker](#Init)
 * [Unity](#BewarePigs)
   * [Beware the Pigs](#BewarePigs)
   * [PewPew](#PewPew)
@@ -10,11 +12,17 @@
 ## React Native & Redux
 <a name="RNR"></a>
 
-Towards the end of my time at the university in Kiel I started working at [Lokalportal](https://lokalportal.de) as part of the app team.
+### Lokalportal
+<a name="LoPo"></a>
 
-After I finished my studies, I joined the team fulltime as a junior frontend developer.
+From October 2019 to May 2020 I was part of the app team at [Lokalportal](https://lokalportal.de), developing their React-Native app.
 
-You can find a small demo project, which uses React Native and Redux [here](https://github.com/digorath/init).
+I joined that company as a fulltime developer in October 2019 after having worked for them for several months in advance as a working student, writing automated tests for the app using detox.
+
+### Initiative Tracker
+<a name="Init"></a>
+
+You can find this small demo project, which uses React Native and Redux [here](https://github.com/digorath/init).
 It is an initiative tracker for [TTRPGs](https://en.wikipedia.org/wiki/Tabletop_role-playing_game) like Dungeons and Dragons.
 ![Initiative Tracker](./Init.png)
 
