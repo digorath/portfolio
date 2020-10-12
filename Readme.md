@@ -1,15 +1,15 @@
 # Julian Kwast - Portfolio
 
-[Projects](#projects)
-* [React Native & Redux](#RNR)
-  * [Lokalportal](#LoPo)
-  * [Initiative Tracker](#Init)
-* [Unity](#BewarePigs)
-  * [Beware the Pigs](#BewarePigs)
-  * [PewPew](#PewPew)
-  * [Blocky Breaky](#blocky)
-* [Other Projects](#other)
-  * [Better Soul Shards](#bss)
+* [Projects](#projects)
+  * [React Native & Redux](#RNR)
+    * [Lokalportal](#LoPo)
+    * [Initiative Tracker](#Init)
+  * [Unity](#BewarePigs)
+    * [Beware the Pigs](#BewarePigs)
+    * [PewPew](#PewPew)
+    * [Blocky Breaky](#blocky)
+  * [Other Projects](#other)
+    * [Better Soul Shards](#bss)
 
 ## React Native & Redux
 <a name="RNR"></a>
