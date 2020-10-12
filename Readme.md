@@ -1,5 +1,5 @@
 [Projects](#projects)
-* [React Native & Redux](#LoPo)
+* [React Native & Redux](#RNR)
 * [Unity](#BewarePigs)
   * [Beware the Pigs](#BewarePigs)
   * [PewPew](#PewPew)
@@ -8,10 +8,15 @@
   * [Better Soul Shards](#bss)
 
 ## React Native & Redux
+<a name="RNR"></a>
 
 Towards the end of my time at the university in Kiel I started working at [Lokalportal](https://lokalportal.de) as part of the app team.
 
 After I finished my studies, I joined the team fulltime as a junior frontend developer.
+
+You can find a small demo project, which uses React Native and Redux [here](https://github.com/digorath/init).
+It is an initiative tracker for [TTRPGs](https://en.wikipedia.org/wiki/Tabletop_role-playing_game) like Dungeons and Dragons.
+![Initiative Tracker](./Init.png)
 
 ## Unity
 
